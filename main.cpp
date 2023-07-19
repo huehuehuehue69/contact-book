@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "main.h"
+#include "contact.h"
 
 int main(){
 
