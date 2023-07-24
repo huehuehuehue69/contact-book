@@ -9,7 +9,7 @@ int main(){
 
     while(1){
         cout<<endl;
-        cout<<"1.Add Contact "<<endl;
+        cout<<"1. Add Contact "<<endl;
         cout<<"2. Complete Search Contact"<<endl;
         cout<<"3. Prefix Search Contact"<<endl;
 
@@ -28,7 +28,7 @@ int main(){
 
                 cout<<"1. Search by first name"<<endl;
                 cout<<"2. Search by last name"<<endl;
-                cout<<"3 Search by phone number"<<endl;
+                cout<<"3. Search by phone number"<<endl;
 
                 cout<<"Enter your choice"<<endl;
 
@@ -44,7 +44,6 @@ int main(){
 
                 break;
             }
-
             case 3:{
 
                 cout<<"1. Search by first name"<<endl;
@@ -68,13 +67,6 @@ int main(){
 
             default:
                 cout<<"Enter valid options"<<endl;
-
-
         }
     }
-
-
-
-
-
 }
